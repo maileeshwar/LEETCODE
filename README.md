@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/maileeshwar/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maileeshwar/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
