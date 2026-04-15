@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/maileeshwar/LEETCODE/tree/master/0020-valid-parentheses) |
+| [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 ## Math
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maileeshwar/LEETCODE/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/maileeshwar/LEETCODE/tree/master/0326-power-of-three) |
+| [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 ## Simulation
 |  |
 | ------- |
