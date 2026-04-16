@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/maileeshwar/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/maileeshwar/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/maileeshwar/LEETCODE/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/maileeshwar/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/maileeshwar/LEETCODE/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/maileeshwar/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/maileeshwar/LEETCODE/tree/master/0342-power-of-four) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 ## Simulation
 |  |
@@ -79,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/maileeshwar/LEETCODE/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/maileeshwar/LEETCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
