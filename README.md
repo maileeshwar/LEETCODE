@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/maileeshwar/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/maileeshwar/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/maileeshwar/LEETCODE/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/maileeshwar/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/maileeshwar/LEETCODE/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/maileeshwar/LEETCODE/tree/master/0326-power-of-three) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/maileeshwar/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
