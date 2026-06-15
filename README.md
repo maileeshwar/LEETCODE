@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maileeshwar/LEETCODE/tree/master/0258-add-digits) |
+| [3925-concatenate-array-with-reverse](https://github.com/maileeshwar/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
+| [3925-concatenate-array-with-reverse](https://github.com/maileeshwar/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
