@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/maileeshwar/LEETCODE/tree/master/0342-power-of-four) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
+| [3871-count-commas-in-range-ii](https://github.com/maileeshwar/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/maileeshwar/LEETCODE/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
 |  |
