@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/maileeshwar/LEETCODE/tree/master/0342-power-of-four) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/maileeshwar/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/maileeshwar/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/maileeshwar/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/maileeshwar/LEETCODE/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/maileeshwar/LEETCODE/tree/master/3829-design-ride-sharing-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/maileeshwar/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 <!---LeetCode Topics End-->
