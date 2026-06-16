@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
+| [3829-design-ride-sharing-system](https://github.com/maileeshwar/LEETCODE/tree/master/3829-design-ride-sharing-system) |
 ## Counting
 |  |
 | ------- |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
+## Design
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/maileeshwar/LEETCODE/tree/master/3829-design-ride-sharing-system) |
+## Queue
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/maileeshwar/LEETCODE/tree/master/3829-design-ride-sharing-system) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/maileeshwar/LEETCODE/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
