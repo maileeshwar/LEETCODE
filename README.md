@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 | [3895-count-digit-appearances](https://github.com/maileeshwar/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3904-smallest-stable-index-ii](https://github.com/maileeshwar/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3925-concatenate-array-with-reverse](https://github.com/maileeshwar/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/maileeshwar/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
+## Greedy
+|  |
+| ------- |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
