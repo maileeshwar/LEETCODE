@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/maileeshwar/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/maileeshwar/LEETCODE/tree/master/0344-reverse-string) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/maileeshwar/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/maileeshwar/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/maileeshwar/LEETCODE/tree/master/0342-power-of-four) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/maileeshwar/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/maileeshwar/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 | [3895-count-digit-appearances](https://github.com/maileeshwar/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/maileeshwar/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
