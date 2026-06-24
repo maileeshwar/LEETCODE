@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/maileeshwar/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
+| [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 | [3834-merge-adjacent-equal-elements](https://github.com/maileeshwar/LEETCODE/tree/master/3834-merge-adjacent-equal-elements) |
+| [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
 | [3895-count-digit-appearances](https://github.com/maileeshwar/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3904-smallest-stable-index-ii](https://github.com/maileeshwar/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -115,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [1980-find-unique-binary-string](https://github.com/maileeshwar/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [3829-design-ride-sharing-system](https://github.com/maileeshwar/LEETCODE/tree/master/3829-design-ride-sharing-system) |
+| [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
+| [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
 ## Bit Manipulation
 |  |
 | ------- |
