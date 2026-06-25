@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/maileeshwar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 | [3834-merge-adjacent-equal-elements](https://github.com/maileeshwar/LEETCODE/tree/master/3834-merge-adjacent-equal-elements) |
 | [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/maileeshwar/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1980-find-unique-binary-string](https://github.com/maileeshwar/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3829-design-ride-sharing-system](https://github.com/maileeshwar/LEETCODE/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
 ## Counting
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
 ## Bit Manipulation
 |  |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/maileeshwar/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/maileeshwar/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
@@ -189,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/maileeshwar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/maileeshwar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
