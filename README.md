@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/maileeshwar/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/maileeshwar/LEETCODE/tree/master/0344-reverse-string) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1980-find-unique-binary-string](https://github.com/maileeshwar/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/maileeshwar/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/maileeshwar/LEETCODE/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/maileeshwar/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/maileeshwar/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Backtracking
