@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/maileeshwar/LEETCODE/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 ## Merge Sort
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/maileeshwar/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/maileeshwar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1980-find-unique-binary-string](https://github.com/maileeshwar/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/maileeshwar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/maileeshwar/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 ## Brainteaser
 |  |
 | ------- |
@@ -205,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
