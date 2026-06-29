@@ -1,5 +1,5 @@
 class Solution {
-            public List<Integer> findClosestElements(int[] A, int k, int x) {
+    public List<Integer> findClosestElements(int[] A, int k, int x) {
         int left = 0, right = A.length - k;
         while (left < right) {
             int mid = (left + right) / 2;
@@ -10,4 +10,4 @@ class Solution {
         }
         return Arrays.stream(A, left, left + k).boxed().collect(Collectors.toList());
     }
-    }
+}
