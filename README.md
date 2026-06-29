@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-count-the-hidden-sequences](https://github.com/maileeshwar/LEETCODE/tree/master/2145-count-the-hidden-sequences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/maileeshwar/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2683-neighboring-bitwise-xor](https://github.com/maileeshwar/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/maileeshwar/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/maileeshwar/LEETCODE/tree/master/0342-power-of-four) |
+| [2683-neighboring-bitwise-xor](https://github.com/maileeshwar/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
