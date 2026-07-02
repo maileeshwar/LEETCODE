@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/maileeshwar/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/maileeshwar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maileeshwar/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/maileeshwar/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/maileeshwar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/maileeshwar/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Brainteaser
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/maileeshwar/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2145-count-the-hidden-sequences](https://github.com/maileeshwar/LEETCODE/tree/master/2145-count-the-hidden-sequences) |
 | [2270-number-of-ways-to-split-array](https://github.com/maileeshwar/LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
