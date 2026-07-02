@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/maileeshwar/LEETCODE/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/maileeshwar/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/maileeshwar/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/maileeshwar/LEETCODE/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/maileeshwar/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maileeshwar/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/maileeshwar/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/maileeshwar/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Prefix Sum
 |  |
