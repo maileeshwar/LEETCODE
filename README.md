@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/maileeshwar/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2683-neighboring-bitwise-xor](https://github.com/maileeshwar/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3804-number-of-centered-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/3804-number-of-centered-subarrays) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Randomized
 |  |
 | ------- |
@@ -259,4 +261,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3804-number-of-centered-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/3804-number-of-centered-subarrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
