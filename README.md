@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/maileeshwar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/maileeshwar/LEETCODE/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/maileeshwar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/maileeshwar/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maileeshwar/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/maileeshwar/LEETCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/maileeshwar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/maileeshwar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
