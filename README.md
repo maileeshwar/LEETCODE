@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/maileeshwar/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-count-the-hidden-sequences](https://github.com/maileeshwar/LEETCODE/tree/master/2145-count-the-hidden-sequences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/maileeshwar/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/maileeshwar/LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2683-neighboring-bitwise-xor](https://github.com/maileeshwar/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1980-find-unique-binary-string](https://github.com/maileeshwar/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/maileeshwar/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3804-number-of-centered-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/3804-number-of-centered-subarrays) |
 | [3829-design-ride-sharing-system](https://github.com/maileeshwar/LEETCODE/tree/master/3829-design-ride-sharing-system) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/maileeshwar/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/maileeshwar/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/maileeshwar/LEETCODE/tree/master/3843-first-element-with-unique-frequency) |
