@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/maileeshwar/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/maileeshwar/LEETCODE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 ## Merge Sort
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/maileeshwar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/maileeshwar/LEETCODE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maileeshwar/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/maileeshwar/LEETCODE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/maileeshwar/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/maileeshwar/LEETCODE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
