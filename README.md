@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/maileeshwar/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/maileeshwar/LEETCODE/tree/master/3828-final-element-after-subarray-deletions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/maileeshwar/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/maileeshwar/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
