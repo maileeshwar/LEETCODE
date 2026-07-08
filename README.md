@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maileeshwar/LEETCODE/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/maileeshwar/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [2390-removing-stars-from-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/maileeshwar/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/maileeshwar/LEETCODE/tree/master/3834-merge-adjacent-equal-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/maileeshwar/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maileeshwar/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/maileeshwar/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/maileeshwar/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/maileeshwar/LEETCODE/tree/master/0739-daily-temperatures) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/maileeshwar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/maileeshwar/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
