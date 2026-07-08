@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/maileeshwar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/maileeshwar/LEETCODE/tree/master/0853-car-fleet) |
 | [2104-sum-of-subarray-ranges](https://github.com/maileeshwar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/maileeshwar/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/maileeshwar/LEETCODE/tree/master/0853-car-fleet) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/maileeshwar/LEETCODE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/maileeshwar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/maileeshwar/LEETCODE/tree/master/0853-car-fleet) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/maileeshwar/LEETCODE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/maileeshwar/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
+| [0853-car-fleet](https://github.com/maileeshwar/LEETCODE/tree/master/0853-car-fleet) |
 | [2104-sum-of-subarray-ranges](https://github.com/maileeshwar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 ## Segment Tree
