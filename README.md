@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/maileeshwar/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/maileeshwar/LEETCODE/tree/master/0853-car-fleet) |
 | [2104-sum-of-subarray-ranges](https://github.com/maileeshwar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/maileeshwar/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2390-removing-stars-from-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 | [3834-merge-adjacent-equal-elements](https://github.com/maileeshwar/LEETCODE/tree/master/3834-merge-adjacent-equal-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/maileeshwar/LEETCODE/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/maileeshwar/LEETCODE/tree/master/0498-diagonal-traverse) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2390-removing-stars-from-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/maileeshwar/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/maileeshwar/LEETCODE/tree/master/3834-merge-adjacent-equal-elements) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-count-the-hidden-sequences](https://github.com/maileeshwar/LEETCODE/tree/master/2145-count-the-hidden-sequences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/maileeshwar/LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/maileeshwar/LEETCODE/tree/master/2270-number-of-ways-to-split-array) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2683-neighboring-bitwise-xor](https://github.com/maileeshwar/LEETCODE/tree/master/2683-neighboring-bitwise-xor) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/maileeshwar/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/maileeshwar/LEETCODE/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Prefix Sum
 |  |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/maileeshwar/LEETCODE/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/maileeshwar/LEETCODE/tree/master/0853-car-fleet) |
 | [2104-sum-of-subarray-ranges](https://github.com/maileeshwar/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3523-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/3523-make-array-non-decreasing) |
 ## Segment Tree
 |  |
