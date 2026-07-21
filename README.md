@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/maileeshwar/LEETCODE/tree/master/0853-car-fleet) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/maileeshwar/LEETCODE/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maileeshwar/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/maileeshwar/LEETCODE/tree/master/1980-find-unique-binary-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/maileeshwar/LEETCODE/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/maileeshwar/LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/maileeshwar/LEETCODE/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/maileeshwar/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Brainteaser
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/maileeshwar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/maileeshwar/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/0542-01-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
