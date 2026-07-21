@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/maileeshwar/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/maileeshwar/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/maileeshwar/LEETCODE/tree/master/3839-number-of-prefix-connected-groups) |
 ## Math
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/maileeshwar/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3804-number-of-centered-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/3804-number-of-centered-subarrays) |
 ## Breadth-First Search
 |  |
