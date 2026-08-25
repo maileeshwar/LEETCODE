@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/maileeshwar/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/maileeshwar/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/maileeshwar/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/maileeshwar/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/maileeshwar/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/maileeshwar/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/maileeshwar/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/maileeshwar/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/maileeshwar/LEETCODE/tree/master/2575-find-the-divisibility-array-of-a-string) |
