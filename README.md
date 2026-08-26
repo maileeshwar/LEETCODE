@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/maileeshwar/LEETCODE/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/maileeshwar/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/maileeshwar/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1952-three-divisors](https://github.com/maileeshwar/LEETCODE/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/maileeshwar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/maileeshwar/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/maileeshwar/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/maileeshwar/LEETCODE/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/maileeshwar/LEETCODE/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/maileeshwar/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/maileeshwar/LEETCODE/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Array
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/maileeshwar/LEETCODE/tree/master/1952-three-divisors) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/maileeshwar/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3804-number-of-centered-subarrays](https://github.com/maileeshwar/LEETCODE/tree/master/3804-number-of-centered-subarrays) |
 ## Breadth-First Search
@@ -335,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/maileeshwar/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/maileeshwar/LEETCODE/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/maileeshwar/LEETCODE/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
