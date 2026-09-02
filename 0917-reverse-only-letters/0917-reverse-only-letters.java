@@ -1,20 +1,20 @@
 class Solution {
     public String reverseOnlyLetters(String s) {
-        StringBuilder r = new StringBuilder();
-        int j = s.length() - 1;
-
-        for (int i = 0; i < s.length(); i++) {
-            if (Character.isLetter(s.charAt(i))) {
-                while (!Character.isLetter(s.charAt(j))) {
-                    j--;
-                }
-                r.append(s.charAt(j));
-                j--;
+        char[] arr = s.toCharArray();
+        int start = 0, end = arr.length - 1;
+        while (start < end) {
+            if (Character.isLetter(arr[start]) && Character.isLetter(arr[end])) {
+                char temp = arr[start];
+                arr[start] = arr[end];
+                arr[end] = temp;
+                start++;
+                end--;
+            } else if (!Character.isLetter(arr[start])) {
+                start++;
             } else {
-                r.append(s.charAt(i));
+                end--;
             }
         }
-
-        return r.toString();
+        return new String(arr);
     }
 }
