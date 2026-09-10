@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/maileeshwar/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/maileeshwar/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/maileeshwar/LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/maileeshwar/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/maileeshwar/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maileeshwar/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maileeshwar/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/maileeshwar/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/maileeshwar/LEETCODE/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/maileeshwar/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/maileeshwar/LEETCODE/tree/master/2289-steps-to-make-array-non-decreasing) |
